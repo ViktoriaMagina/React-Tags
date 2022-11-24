@@ -1,10 +1,10 @@
 [
     {"label":"bacon" , "value": 1},
     {"label":"beef" , "value": 2},
-    {"label":"cod" , "value": 2},
-    {"label":"asparagus" , "value": 2},
-    {"label":"avocado" , "value": 2},
-    {"label":"leek" , "value": 2},
-    {"label":"almond" , "value": 2},
-    {"label":"barley" , "value": 2}
+    {"label":"cod" , "value": 3},
+    {"label":"asparagus" , "value": 4},
+    {"label":"avocado" , "value": 5},
+    {"label":"leek" , "value": 6},
+    {"label":"almond" , "value": 7},
+    {"label":"barley" , "value": 8}
 ]
